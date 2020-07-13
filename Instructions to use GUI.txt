@@ -1,0 +1,8 @@
+Instructions to use GUI in your computer
+
+1) First, download all the files and look for the location where everything is saved.
+ (Preferably use the path where your jupyter notebook files are saved)
+2) Keep the file GUI.py in the same folder where the "traffic_sign_model_grayscale_2.model" is saved.
+3) Go to anaconda prompt and enter to the directory where all your jupyter notebook files are stored.
+4) Type "python GUI.py" and click enter.
+5) Now a GUI will be displayed where u can select an image and click on "predict" to know which class the image belongs to.
